@@ -4,3 +4,11 @@ A host board for the [mt32-pi project](https://github.com/dwhinham/mt32-pi). I'v
 
 > [!NOTE]
 > This is untested and probably doesn't work. If it ends up working, I'll make a 3D printable case for it.
+
+![Top](Renders/MT32-pi-mainboard-top.png)
+
+![Bottom](Renders/MT32-pi-mainboard-bottom.png)
+
+![Rear](Renders/MT32-pi-mainboard-rear.png)
+
+Yeah, the DAC module model I found has some weird transparancy issues in Kicad.
