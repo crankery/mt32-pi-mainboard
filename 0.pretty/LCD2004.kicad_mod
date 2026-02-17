@@ -1,0 +1,187 @@
+(footprint "LCD2004"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Through hole straight pin header, 1x16, 2.54mm pitch, single row")
+	(tags "Through hole pin header THT 1x16 2.54mm single row")
+	(property "Reference" "REF**"
+		(at -27.5 -7.8 180)
+		(layer "F.SilkS")
+		(uuid "973ea593-3358-4e49-b95d-1b1e97e6f082")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "LCD2004"
+		(at -27.5 85.2 180)
+		(layer "F.SilkS")
+		(uuid "2cb3b81a-7e8c-4d95-b2ff-fbccaa3428b4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "482fb35b-81a2-4838-8b3c-cb3f391d252d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5b9f13a9-0b0f-47d6-b939-048295318225")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_rect
+		(start -57.5 -10.3)
+		(end 2.5 87.7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "4ecd4a98-bb48-4ec4-a4b8-fab529d096e6")
+	)
+	(fp_rect
+		(start -47.5 -9.8)
+		(end -7.5 87.2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "2c7edad5-3a3c-41e7-90a4-81169462172c")
+	)
+	(fp_rect
+		(start -40.4 0.7)
+		(end -14.6 76.7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "10796c17-86b8-45b4-a484-e1bc425436bf")
+	)
+	(pad "" np_thru_hole circle
+		(at -55 -7.8)
+		(size 3.5 3.5)
+		(drill 3.5)
+		(layers "*.Cu" "*.Mask")
+		(uuid "01195c1d-1680-4f19-b149-e2c5810ef3d6")
+	)
+	(pad "" np_thru_hole circle
+		(at -55 85.2)
+		(size 3.5 3.5)
+		(drill 3.5)
+		(layers "*.Cu" "*.Mask")
+		(uuid "59f06bf7-39de-4df0-8ff0-cc53ada4513e")
+	)
+	(pad "" np_thru_hole circle
+		(at 0 -7.8)
+		(size 3.5 3.5)
+		(drill 3.5)
+		(layers "*.Cu" "*.Mask")
+		(uuid "ffc7b5aa-3d47-4c9f-9a4d-7956f8a57465")
+	)
+	(pad "" np_thru_hole circle
+		(at 0 85.2)
+		(size 3.5 3.5)
+		(drill 3.5)
+		(layers "*.Cu" "*.Mask")
+		(uuid "445dc00a-6fc3-4e50-a41c-f885b3472fcc")
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x16_P2.54mm_Vertical.step"
+		(hide yes)
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+	(model "${KIPRJMOD}/3D/lcd2004.step"
+		(hide yes)
+		(offset
+			(xyz -27.5 -38.72 2.54)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 90)
+		)
+	)
+	(model "${KICAD9_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x16_P2.54mm_Vertical.step"
+		(hide yes)
+		(offset
+			(xyz 0 0 11)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -180 -0)
+		)
+	)
+	(model "${KICAD9_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x16_P2.54mm_Horizontal.step"
+		(hide yes)
+		(offset
+			(xyz 8.5 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+	(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x16_P2.54mm_Horizontal.step"
+		(offset
+			(xyz -0.5 -37.83 2.54)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 180 -0 -0)
+		)
+	)
+	(model "${KIPRJMOD}/3D/LCD2004-simple.step"
+		(offset
+			(xyz -33 -26 -0.4)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -90)
+		)
+	)
+)
