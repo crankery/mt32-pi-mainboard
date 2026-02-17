@@ -7344,7 +7344,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x16_P2.54mm_Horizontal"
+		(property "Footprint" "0:PinSocket_1x16_P2.54mm_Horizontal"
 			(at 228.6 130.81 0)
 			(effects
 				(font
@@ -7586,7 +7586,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
+		(property "Footprint" "0:DIP-8_W7.62mm"
 			(at 216.916 43.18 0)
 			(effects
 				(font
@@ -7778,7 +7778,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 213.36 73.66 0)
+		(at 49.53 172.72 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -7787,7 +7787,7 @@
 		(fields_autoplaced yes)
 		(uuid "8e3aa52e-2119-4b39-8695-d9dc0c75cbcd")
 		(property "Reference" "H3"
-			(at 215.9 72.3899 0)
+			(at 52.07 171.4499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7797,7 +7797,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 215.9 73.6599 0)
+			(at 52.07 172.7199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7807,7 +7807,7 @@
 			)
 		)
 		(property "Footprint" "0:MountingHole_2.7mm_M2.5"
-			(at 213.36 73.66 0)
+			(at 49.53 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7816,7 +7816,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 213.36 73.66 0)
+			(at 49.53 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7825,7 +7825,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 213.36 73.66 0)
+			(at 49.53 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7939,7 +7939,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "0:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 226.06 32.258 90)
 			(effects
 				(font
@@ -8009,7 +8009,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "0:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 194.31 41.91 0)
 			(effects
 				(font
@@ -8820,7 +8820,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "0:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 204.47 150.368 90)
 			(effects
 				(font
@@ -8864,7 +8864,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 209.55 73.66 0)
+		(at 49.53 167.64 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -8873,7 +8873,7 @@
 		(fields_autoplaced yes)
 		(uuid "c532dbd9-7ddd-4af1-ad10-3f7580300dc4")
 		(property "Reference" "H2"
-			(at 212.09 72.3899 0)
+			(at 52.07 166.3699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8883,7 +8883,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 212.09 73.6599 0)
+			(at 52.07 167.6399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8893,7 +8893,7 @@
 			)
 		)
 		(property "Footprint" "0:MountingHole_2.7mm_M2.5"
-			(at 209.55 73.66 0)
+			(at 49.53 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8902,7 +8902,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 209.55 73.66 0)
+			(at 49.53 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8911,7 +8911,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 209.55 73.66 0)
+			(at 49.53 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9216,7 +9216,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "0:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 189.23 34.798 90)
 			(effects
 				(font

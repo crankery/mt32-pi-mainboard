@@ -52,7 +52,20 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "silk_edge_clearance|119359892|52369999|7749f2e5-1015-48b2-bb76-7dd81ec38a8e|0f533a55-3b67-4b1d-a875-fd1071399689",
+          ""
+        ],
+        [
+          "silk_edge_clearance|123130000|51660000|07fde392-9566-4d76-8f02-51630324e755|6c0f4875-da41-4db9-8194-098622a76d25",
+          ""
+        ],
+        [
+          "silk_over_copper|55820000|77860000|55e920cb-372a-4527-a24e-e9b438f7a74d|00000000-0000-0000-0000-000000000000",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -451,7 +464,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "MT32-pi-bo.kicad_pro",
+    "filename": "MT32-pi-mainboard.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -487,7 +500,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "mt32-pi-mb-gerbers",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",

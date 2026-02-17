@@ -6,24 +6,24 @@
 	(descr "DC Barrel Jack")
 	(tags "Power Jack")
 	(property "Reference" "REF**"
-		(at -8.825 0.000001 90)
+		(at -2.85 0 270)
 		(layer "F.SilkS")
 		(uuid "9bf4c2b1-46be-40db-91e7-9fc26926aecf")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.15)
+				(size 0.8 0.8)
+				(thickness 0.1)
 			)
 		)
 	)
 	(property "Value" "BarrelJack_Horizontal"
-		(at 1.89 0 90)
-		(layer "F.Fab")
+		(at 1.69 0 270)
+		(layer "F.SilkS")
 		(uuid "36cd9c58-69dd-4a8e-b29b-80a4380254e8")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.15)
+				(size 0.8 0.8)
+				(thickness 0.1)
 			)
 		)
 	)
@@ -55,7 +55,7 @@
 	)
 	(attr through_hole)
 	(fp_line
-		(start -13.8 -4.6)
+		(start -10.2 -4.6)
 		(end 0.9 -4.6)
 		(stroke
 			(width 0.12)
@@ -65,8 +65,8 @@
 		(uuid "2f24a18c-6cf2-405e-bdba-cce38ef7db20")
 	)
 	(fp_line
-		(start -13.8 4.6)
-		(end -13.8 -4.6)
+		(start -10.2 4.6)
+		(end -10.2 -4.6)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -76,7 +76,7 @@
 	)
 	(fp_line
 		(start -5 4.6)
-		(end -13.8 4.6)
+		(end -10.2 4.6)
 		(stroke
 			(width 0.12)
 			(type solid)

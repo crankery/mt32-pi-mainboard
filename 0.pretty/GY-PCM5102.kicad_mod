@@ -4,7 +4,7 @@
 	(generator_version "9.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
-		(at 0.3 3.81 0)
+		(at -12.11 0 90)
 		(layer "B.SilkS")
 		(uuid "1c48a4dd-db4a-4d56-afb0-39a0f696c600")
 		(effects
@@ -16,7 +16,7 @@
 		)
 	)
 	(property "Value" "GY-PCM5102"
-		(at 0.3 6.35175 0)
+		(at 0 -9.36 0)
 		(layer "B.SilkS")
 		(uuid "8ecc0acd-832b-4f77-9d2f-fed79a52a0dc")
 		(effects
@@ -63,8 +63,8 @@
 		(uuid "206c1616-4615-4b78-baee-0446a002c58e")
 	)
 	(fp_line
-		(start -14.3 8.5)
-		(end 14.3 8.5)
+		(start -14.38 8.5)
+		(end 14.22 8.5)
 		(stroke
 			(width 0.12)
 			(type solid)

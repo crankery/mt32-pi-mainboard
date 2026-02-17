@@ -6,7 +6,7 @@
 	(descr "Through hole straight pin header, 2x20, 2.54mm pitch, double rows")
 	(tags "Through hole pin header THT 2x20 2.54mm double row")
 	(property "Reference" "REF**"
-		(at 12.77 -4.87 180)
+		(at 8.28 24.130001 270)
 		(layer "B.SilkS")
 		(uuid "27bd86cb-15d6-4c0d-8074-0496dd0b744e")
 		(effects
@@ -18,7 +18,7 @@
 		)
 	)
 	(property "Value" "RP_Zero_2W"
-		(at 12.77 53.13 180)
+		(at 6.09 24.13 270)
 		(layer "B.SilkS")
 		(uuid "e3f98dea-a0fb-416e-a648-d2b21c678877")
 		(effects
@@ -55,8 +55,8 @@
 	)
 	(attr through_hole)
 	(fp_line
-		(start -2.23 54.13)
-		(end -2.23 -5.87)
+		(start -2.23 54.03)
+		(end -2.23 -5.77)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -75,8 +75,8 @@
 		(uuid "93b37491-738f-4830-8e96-cee91f39f742")
 	)
 	(fp_line
-		(start 0.27 -8.37)
-		(end 25.27 -8.37)
+		(start 0.27 -8.27)
+		(end 25.27 -8.27)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -155,8 +155,8 @@
 		(uuid "baf96264-77f7-442f-ae14-0eb9621a94de")
 	)
 	(fp_line
-		(start 25.27 56.63)
-		(end 0.27 56.63)
+		(start 25.27 56.53)
+		(end 0.27 56.53)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -165,8 +165,8 @@
 		(uuid "33a3faa7-cd68-4a9b-bf59-473e2bc41fd1")
 	)
 	(fp_line
-		(start 27.77 -5.87)
-		(end 27.77 54.13)
+		(start 27.77 -5.77)
+		(end 27.77 54.03)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -208,9 +208,9 @@
 		(uuid "9c60c49d-6c15-48de-91db-78f9b7b4a852")
 	)
 	(fp_arc
-		(start -2.23 -5.87)
-		(mid -1.497767 -7.637767)
-		(end 0.27 -8.37)
+		(start -2.23 -5.77)
+		(mid -1.497767 -7.537767)
+		(end 0.27 -8.27)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -219,9 +219,9 @@
 		(uuid "82896843-be80-4c98-8dfb-1cebf0c2a72c")
 	)
 	(fp_arc
-		(start 0.27 56.63)
-		(mid -1.497767 55.897767)
-		(end -2.23 54.13)
+		(start 0.27 56.53)
+		(mid -1.497767 55.797767)
+		(end -2.23 54.03)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -230,9 +230,9 @@
 		(uuid "bf7c17a8-5ae7-41e4-b230-ff9f17be628e")
 	)
 	(fp_arc
-		(start 25.27 -8.37)
-		(mid 27.037767 -7.637767)
-		(end 27.77 -5.87)
+		(start 25.27 -8.27)
+		(mid 27.037767 -7.537767)
+		(end 27.77 -5.77)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -241,9 +241,9 @@
 		(uuid "1593fe08-e7aa-42bb-a4f7-4aafbf99a68d")
 	)
 	(fp_arc
-		(start 27.77 54.13)
-		(mid 27.037767 55.897767)
-		(end 25.27 56.63)
+		(start 27.77 54.03)
+		(mid 27.037767 55.797767)
+		(end 25.27 56.53)
 		(stroke
 			(width 0.1)
 			(type solid)
