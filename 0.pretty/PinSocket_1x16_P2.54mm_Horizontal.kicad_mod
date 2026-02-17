@@ -17,7 +17,7 @@
 		)
 	)
 	(property "Value" "PinSocket_1x16_P2.54mm_Horizontal"
-		(at -11.65 19.04 90)
+		(at 3.91 19.040001 90)
 		(layer "F.SilkS")
 		(uuid "5c49f28b-bb26-4f31-ad81-8f5b622918f7")
 		(effects

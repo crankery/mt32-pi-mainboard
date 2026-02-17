@@ -16,7 +16,7 @@
 		)
 	)
 	(property "Value" "PJ-307"
-		(at 1.7 0 90)
+		(at 8.37 0 90)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "0d515f31-92b1-4595-b8ef-1b9fd87f2e91")
@@ -53,7 +53,7 @@
 			)
 		)
 	)
-	(attr smd)
+	(attr through_hole)
 	(fp_line
 		(start -4.4 -6)
 		(end -4.4 -3.1)
@@ -76,7 +76,7 @@
 	)
 	(fp_line
 		(start -4.4 -3.1)
-		(end -3.4 -3.1)
+		(end -3.3 -3.1)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -86,7 +86,7 @@
 	)
 	(fp_line
 		(start -4.4 3.1)
-		(end -3.4 3.1)
+		(end -3.3 3.1)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -105,8 +105,8 @@
 		(uuid "adb91365-5628-457a-bda4-1595091082d5")
 	)
 	(fp_line
-		(start -3.4 -3.1)
-		(end -3.4 3.1)
+		(start -3.3 -3.1)
+		(end -3.3 3.1)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -146,7 +146,7 @@
 	)
 	(fp_line
 		(start -4.55 -3)
-		(end -3.5 -3)
+		(end -3.4 -3)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -156,7 +156,7 @@
 	)
 	(fp_line
 		(start -4.55 3)
-		(end -3.5 3)
+		(end -3.4 3)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -175,8 +175,8 @@
 		(uuid "d2b6137f-8419-45e7-8690-94e6dbdf0a53")
 	)
 	(fp_line
-		(start -3.5 3)
-		(end -3.5 -3)
+		(start -3.4 3)
+		(end -3.4 -3)
 		(stroke
 			(width 0.05)
 			(type solid)

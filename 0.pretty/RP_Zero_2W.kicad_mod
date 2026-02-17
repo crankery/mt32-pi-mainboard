@@ -6,7 +6,7 @@
 	(descr "Through hole straight pin header, 2x20, 2.54mm pitch, double rows")
 	(tags "Through hole pin header THT 2x20 2.54mm double row")
 	(property "Reference" "REF**"
-		(at 8.28 24.130001 270)
+		(at -3.09 24.130001 270)
 		(layer "B.SilkS")
 		(uuid "27bd86cb-15d6-4c0d-8074-0496dd0b744e")
 		(effects
@@ -18,7 +18,7 @@
 		)
 	)
 	(property "Value" "RP_Zero_2W"
-		(at 6.09 24.13 270)
+		(at -4.82 24.13 270)
 		(layer "B.SilkS")
 		(uuid "e3f98dea-a0fb-416e-a648-d2b21c678877")
 		(effects
@@ -53,7 +53,6 @@
 			)
 		)
 	)
-	(attr through_hole)
 	(fp_line
 		(start -2.23 54.03)
 		(end -2.23 -5.77)

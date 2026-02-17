@@ -7,7 +7,7 @@
 	(tags "Through hole pin header THT 1x16 2.54mm single row")
 	(property "Reference" "REF**"
 		(at -27.5 -7.8 180)
-		(layer "F.SilkS")
+		(layer "F.Fab")
 		(uuid "973ea593-3358-4e49-b95d-1b1e97e6f082")
 		(effects
 			(font
@@ -18,7 +18,7 @@
 	)
 	(property "Value" "LCD2004"
 		(at -27.5 85.2 180)
-		(layer "F.SilkS")
+		(layer "F.Fab")
 		(uuid "2cb3b81a-7e8c-4d95-b2ff-fbccaa3428b4")
 		(effects
 			(font
@@ -51,7 +51,6 @@
 			)
 		)
 	)
-	(attr through_hole)
 	(fp_rect
 		(start -57.5 -10.3)
 		(end 2.5 87.7)
@@ -60,7 +59,7 @@
 			(type solid)
 		)
 		(fill no)
-		(layer "F.SilkS")
+		(layer "F.Fab")
 		(uuid "4ecd4a98-bb48-4ec4-a4b8-fab529d096e6")
 	)
 	(fp_rect
@@ -71,7 +70,7 @@
 			(type solid)
 		)
 		(fill no)
-		(layer "F.SilkS")
+		(layer "F.Fab")
 		(uuid "2c7edad5-3a3c-41e7-90a4-81169462172c")
 	)
 	(fp_rect
@@ -82,7 +81,7 @@
 			(type solid)
 		)
 		(fill no)
-		(layer "F.SilkS")
+		(layer "F.Fab")
 		(uuid "10796c17-86b8-45b4-a484-e1bc425436bf")
 	)
 	(pad "" np_thru_hole circle

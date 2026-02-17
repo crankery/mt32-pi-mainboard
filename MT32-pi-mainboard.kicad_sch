@@ -3,7 +3,15 @@
 	(generator "eeschema")
 	(generator_version "9.0")
 	(uuid "fe08e03c-4700-45c5-8be1-7bf60d684865")
-	(paper "A4")
+	(paper "USLetter")
+	(title_block
+		(title "${Title}")
+		(date "${Issue_Date}")
+		(rev "${Revision}")
+		(company "${Company}")
+		(comment 1 "${Author}")
+		(comment 2 "${Github}")
+	)
 	(lib_symbols
 		(symbol "0:CrankeryLogo"
 			(exclude_from_sim no)
@@ -6868,7 +6876,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2d5a543c-4983-45dd-95c2-627335b46d66")
-		(property "Reference" "A1"
+		(property "Reference" "DAC1"
 			(at 165.9733 67.31 0)
 			(effects
 				(font
@@ -6961,7 +6969,7 @@
 		(instances
 			(project ""
 				(path "/fe08e03c-4700-45c5-8be1-7bf60d684865"
-					(reference "A1")
+					(reference "DAC1")
 					(unit 1)
 				)
 			)
@@ -7326,7 +7334,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "62a27d23-e16d-4867-9d3c-aabbc7857717")
-		(property "Reference" "J3"
+		(property "Reference" "J1"
 			(at 231.14 130.8099 0)
 			(effects
 				(font
@@ -7422,7 +7430,7 @@
 		(instances
 			(project ""
 				(path "/fe08e03c-4700-45c5-8be1-7bf60d684865"
-					(reference "J3")
+					(reference "J1")
 					(unit 1)
 				)
 			)
@@ -8351,7 +8359,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a4a55422-8cda-4e28-872a-c64c3b8bf963")
-		(property "Reference" "J1"
+		(property "Reference" "RP1"
 			(at 66.04 20.32 0)
 			(effects
 				(font
@@ -8359,7 +8367,7 @@
 				)
 			)
 		)
-		(property "Value" "RPi"
+		(property "Value" "Raspberry Pi Zero 2 W"
 			(at 66.04 22.86 0)
 			(effects
 				(font
@@ -8520,7 +8528,7 @@
 		(instances
 			(project ""
 				(path "/fe08e03c-4700-45c5-8be1-7bf60d684865"
-					(reference "J1")
+					(reference "RP1")
 					(unit 1)
 				)
 			)
